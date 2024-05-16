@@ -1,0 +1,30 @@
+User Stories
+•	User Story 1: As a user, I want to see a header with the name of the application and the different tabs currently in use, so I know what application I am working on.
+•	Acceptance Criteria: Name of the app is displayed and text is bolded
+•	User Story 2: As a user, I want to see the name of active tab displayed, so I know what tab I am currently on.
+•	Acceptance Criteria: When a tab is in use, the frame of the tab is highlighted in blue color. The frame of Idle tabs doesn’t have any color
+•	User Story 3: As a user, I want the trivia question displayed with the option of four multiple choice answers so that I can make a selection in response to the trivia
+•	Acceptance Criteria: 
+o	Four multiple choice options are displayed below the trivia question
+o	The four multiple options are highlighted in 4 different colors- Blue, green, red and purple
+o	When an option is selected the frame is highlighted yellow
+o	 Place element that displays which question number the user is on and the total number of questions (ex. 'Question 1 / 10')
+•	User Story 4: As a user, I want to see the question number I am currently at and the total number of questions so that I know how many questions I have to answer
+•	Acceptance Criteria:
+o	 “Question 1/10” is displayed in the top left corner of the screen
+o	The trivia question is placed below the element
+o	When user moves to the next question, the question number is increased. For example, if I am on question 1, “Question 1/10 is displayed”. If I am on question 2, “Question 2/10” is displayed
+•	User Story 5: As a user, I want to advance to the next question after selecting my response to the current question so that I can progress to the next question
+•	Acceptance Criteria: 
+o	When a question is displayed on the screen, after selecting my response, another button is displayed to advance to the next question
+•	User Story 6: As a user, I want to know if my response to the question is right or wrong, when I select my response so that I know the right answer to the trivia
+•	Acceptance Criteria: 
+o	When a user selects a response to the question, a confirmation message is displayed to the user to confirm the response.
+o	After the response is confirmed, the user is informed if the response is correct or wrong
+User Story 7: As a user, I want to know when the trivia is completed after answering the last question, so that I know I am done
+Acceptance Criteria: Display a message to the user that the trivia has been completed
+
+User Story 8: As a user, I want to see my score so that I know how well I performed.
+Acceptance Criteria: 
+o	Display the total score of the trivia, total correct responses, total wrong responses.
+o	Display correct answers for the wrong responses.  
